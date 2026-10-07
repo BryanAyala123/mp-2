@@ -7,7 +7,8 @@ const ParentDiv=styled.div`
   width: 70vw;
   margin: auto;
   padding: 10px 20px;
-  background-color: blue;
+  text-align: center;
+  background-color: #bad8b6;
 `;
 
 export default function App() {
